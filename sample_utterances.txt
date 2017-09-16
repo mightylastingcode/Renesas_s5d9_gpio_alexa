@@ -1,0 +1,14 @@
+For Alexa Interaction Model configruation
+
+Enter them into the blank fields in the sample utterances section.
+
+Intent			Requests
+==================================================
+SensorStatusIntent 	What is the current {Sensor_Selection}
+SensorStatusIntent 	What is my current {Sensor_Selection}
+SensorStatusIntent 	What is current {Sensor_Selection}
+ledControlIntent 	Turn the {led_onoff} {led_Selection} light
+ledControlIntent 	Turn {led_onoff} {led_Selection} light
+ledBlinkIntent 		Blink {led_Selection} light {blink_num} time
+ledBlinkIntent 		Blink the {led_Selection} light {blink_num} time
+

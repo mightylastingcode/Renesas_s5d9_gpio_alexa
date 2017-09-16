@@ -1,0 +1,9 @@
+For Alexa Interaction Model configruation
+
+Enter them into the blank fields in the custom slot type section.
+
+type			Values
+==================================================
+Sensor_Options		Temperature | Pressure
+led_Options		red | yellow | green
+led_onoff_Options	on | off
