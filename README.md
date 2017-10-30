@@ -21,3 +21,5 @@ PS: The S5D9 board has both temperature and pressure sensors.
 
 Say to Alexa: "Alexa, ask Medium One.  What is the current temperature?"
 Say to Alexa: "Alexa, ask Medium One.  What is the current pressure?"
+
+https://www.miketechuniverse.com/single-post/2017/09/18/Tutorial-for-Renesas-S5D9-IoT-Kit-Use-Amazon-Alexa-to-control-the-LED-light
