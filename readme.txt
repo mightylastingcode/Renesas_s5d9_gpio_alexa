@@ -11,4 +11,6 @@ Files for Amazon Alexa Configuration for both external or built-in LEDs:
 1. intent_schema_3.py                           = Amazon Alexa Interaction Model (Intent Schema section)
 2. custom_slot_type.txt                         = Amazon Alexa Interaction Model (Custem Slot Type section)
 3. sample_utterances.txt                        = Amazon Alexa Interaction Model (Sample Utterances section)
+
+(new update)
                                              
